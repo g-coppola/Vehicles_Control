@@ -57,7 +57,7 @@ This module contains a simulation study of an autonomous vehicle navigating a co
 * `AutomatedVehicle.slx` / `VehicleModel.slx`: Simulink models for simulating the non-linear vehicle dynamics and the closed-loop control system.
 * `AugmentedState.m`: Function to compute the augmented state-space matrices ($A_{a}$, $B_{a}$, etc.) incorporating the yaw tracking error dynamics.
 * `H_2.m` / `Hinfinity.m`: Functions defining and solving the Linear Matrix Inequalities (LMIs) to obtain the optimal controller gains.
-* `ScenarioH2.m` / `Simulation_H2.m` / `Simulation_Scenario.m`: Scripts to run and visualize the final 3D chase plot simulations based on the controller outputs.
+* `Simulation_H2.m` / `Simulation_Scenario.m`: Scripts to run and visualize the final 3D chase plot simulations based on the controller outputs.
 
 ### 📊 Results Summary
 The study highlights a clear trade-off between tracking precision and robustness:
