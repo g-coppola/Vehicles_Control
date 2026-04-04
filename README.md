@@ -2,7 +2,7 @@
 
 This repository contains the simulation projects developed for the **Vehicles Control** course (Academic Year 2025/2026). The repository is divided into two main modules:
 * **Module 1**: Quadcopter Dynamics and Control Strategies (PID, Gain Scheduling, and Robust Control).
-* **Module 2**: Robust Control Implementation ($\mathcal{H}_{2}$ vs $\mathcal{H}_{\infty}$) for Autonomous Vehicles in Urban Scenarios.
+* **Module 2**: Robust Control Implementation (**$\mathcal{H}_{2}$** vs **$\mathcal{H}_{\infty}$**) for Autonomous Vehicles in Urban Scenarios.
 
 ---
 
